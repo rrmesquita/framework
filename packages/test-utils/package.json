@@ -22,7 +22,7 @@
     "ohmyfetch": "^0.4.15"
   },
   "devDependencies": {
-    "playwright": "^1.18.1",
+    "playwright": "^1.19.0",
     "unbuild": "latest",
     "vitest": "^0.3.2"
   },
